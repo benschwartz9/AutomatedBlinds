@@ -15,7 +15,7 @@ timeForContinuousRotation = .57
 numRotations = 6
 servo = crickit.continuous_servo_1
 currentWait = 0
-isOpen = False
+isOpen = True
 isQuit = False
 
 #Time Stuff
